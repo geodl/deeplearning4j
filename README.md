@@ -1,3 +1,6 @@
+# Архитектура [deeplearning4j]  фреймворка для глубокого обучения
+https://drive.google.com/drive/folders/1urykDEER9tFap2weFVq2qPh5mz-r7svu
+
 # Monorepo of Deeplearning4j
 
 Welcome to the new monorepo of Deeplearning4j that contains the source code for all the following projects, in addition to the original repository of Deeplearning4j moved to [deeplearning4j](deeplearning4j):
