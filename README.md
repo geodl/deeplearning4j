@@ -9,7 +9,6 @@ Deep Learning with DeepLearning4J and Spring Boot - Artur Garcia & Dimas Cabré 
 
 https://www.youtube.com/watch?v=RlL9MNT-R3k
 
-
 # Технология
 Deeplearning4j реализована на языке Java и выполняется в среде, при этом совместима с Clojure и включает интерфейс (API) для языка Scala. Дополнительная библиотека ND4J открытого доступа обеспечивает вычисления на графических процессорах с поддержкой CUDA. Кроме того, имеются средства для работы с библиотекой на языке Python через фреймворк Keras.
 
